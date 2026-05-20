@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Hi 👋, I'm Hrishi Khapekar</h1>
-  <h3>A passionate Frontend and Game Developer</h3>
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Frontend+Developer+%7C+React+%26+Next.js+%F0%9F%8C%90;Game+Dev+%7C+Unity+%26+C%23+%F0%9F%8E%AE;Backend+%7C+Java+%26+Spring+%E2%9A%99%EF%B8%8F;Building+Exorcise-and-Extricate+%F0%9F%9A%80;IT+Undergrad+%7C+Learning+Flutter+%F0%9F%93%B1" alt="Typing SVG" />
+    </a>
+  </h3>
   
   <img src="https://komarev.com/ghpvc/?username=hrishikhapekar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   
@@ -107,8 +111,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrishikhapekar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+</div>
+<div align="center">
  <!--- <img src="https://github-readme-stats.vercel.app/api?username=hrishikhapekar&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" height="195" /> --->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikhapekar&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrishikhapekar&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
