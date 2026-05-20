@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Hrishi Khapekar</h1>
-  <h3>A passionate frontend developer from India</h3>
+  <h3>A passionate Frontend and Game Developer</h3>
   
   <img src="https://komarev.com/ghpvc/?username=hrishikhapekar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   
