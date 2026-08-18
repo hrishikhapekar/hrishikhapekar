@@ -108,19 +108,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrishikhapekar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-</div>
-<div align="center">
- <!--- <img src="https://github-readme-stats.vercel.app/api?username=hrishikhapekar&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" height="195" /> --->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikhapekar&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrishikhapekar&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
 <br>
 
 <div align="center">
