@@ -7,12 +7,6 @@
   </h3>
   
   <img src="https://komarev.com/ghpvc/?username=hrishikhapekar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  
-  <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=hrishikhapekar&theme=radical" alt="hrishikhapekar" />
-    </a> 
-  </p>
 </div>
 
 <br>
