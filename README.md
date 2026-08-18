@@ -48,6 +48,9 @@
   <a href="https://www.leetcode.com/hrishikhapekar">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  <a href="https://www.codechef.com/users/hrishikhapekar">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
 </div>
 
 ---
